@@ -1,4 +1,4 @@
-# CODTECH-Python-Programing-Task2
+# CODTECH-Python-Programming-Task2
 # Student Grade Tracker
 
 ID :-CT08DS5359,  
