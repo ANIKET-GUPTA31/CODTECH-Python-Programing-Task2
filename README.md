@@ -1,10 +1,4 @@
-# CODTECH-Python-Programming-Task2
 # Student Grade Tracker
-
-ID :-CT08DS5359,  
-DOMAIN:- PYTHON PROGRAMMING,     
-DURATION :- JULY TO AUGUST 2024,                    
-Mentor :-  Muzammil Ahmed
 
 ## Overview
 
@@ -25,7 +19,7 @@ The **Student Grade Tracker** is a Python application designed to manage student
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/student-grade-tracker.git
+   git clone https://github.com/Aniket-Gupta-Tech-2005/Student-Grade-Tracker-Using-python.git
    cd student-grade-tracker
    ```
 
@@ -72,5 +66,3 @@ Enter grade (0-100): 92
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
-
-CODTECH PYTHON PROGRAMING TASK1 (STUDENT GRADE TRACKER)
